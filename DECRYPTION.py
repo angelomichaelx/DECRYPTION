@@ -23,5 +23,10 @@ for i in range (len(input_string)):
     elif input_string[i] == "+":
             output_string += "o"
 #if the input string is  !, then change it to letter u 
+    elif input_string[i] == "!":
+            output_string += "u"
+
+    else:
+         output_string += input_string[i]
 #print output with decoration
 #program if you want to repeat it again
