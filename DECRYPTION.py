@@ -20,6 +20,8 @@ for i in range (len(input_string)):
     elif input_string[i] == "#":
             output_string += "i"
 #if the input string is  +, then change it to letter o
+    elif input_string[i] == "+":
+            output_string += "o"
 #if the input string is  !, then change it to letter u 
 #print output with decoration
 #program if you want to repeat it again
