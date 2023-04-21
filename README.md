@@ -1,11 +1,11 @@
 # DECRYPTION
 This Python project decrypts encrypted characters or statements into their equivalent vowel values, which are the following:
 
-'*' = a
-'&' = e
-'#' = i
-'+' = o
-'!' = u
+-'*' = a
+-'&' = e
+-'#' = i
+-'+' = o
+-'!' = u
 
 ## How To Use / Run
 1. Install Python on your computer to run the code. You can download its latest version here: https://www.python.org/downloads/ 
