@@ -22,4 +22,5 @@ This Python project decrypts encrypted characters or statements into their equiv
 8. If you want to repeat the Decryption just type "YES" if not Type "NO" and after that the program will end and the word "Thank you !!" will appear.
 
 ## Example output
-![decrytions](https://user-images.githubusercontent.com/129743375/233623575-9b2d4877-0277-4686-907e-ee84f4068a1a.JPG)
+![new](https://user-images.githubusercontent.com/129743375/233625026-3624cefe-7a63-4ec7-b75e-ab395a2b4877.JPG)
+
