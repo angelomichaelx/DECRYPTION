@@ -17,6 +17,8 @@ for i in range (len(input_string)):
                 output_string += "e"
 
 #if the input string is  #, then change it to letter i
+    elif input_string[i] == "#":
+            output_string += "i"
 #if the input string is  +, then change it to letter o
 #if the input string is  !, then change it to letter u 
 #print output with decoration
