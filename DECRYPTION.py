@@ -13,6 +13,9 @@ for i in range (len(input_string)):
     if input_string [i] == "*":
             output_string += "a"
 #if the input string is  &, then change it to letter e
+    elif input_string[i] == "&":
+                output_string += "e"
+
 #if the input string is  #, then change it to letter i
 #if the input string is  +, then change it to letter o
 #if the input string is  !, then change it to letter u 
