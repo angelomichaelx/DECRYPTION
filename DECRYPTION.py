@@ -7,8 +7,8 @@
 input_string = input ("INPUT YOUR STRING? ")
 output_string = ""
 
-
 #to check every character
+for i in range (len(input_string)):
 #if the input string is  *, then change it to letter a
 #if the input string is  &, then change it to letter e
 #if the input string is  #, then change it to letter i
