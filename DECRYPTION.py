@@ -29,4 +29,7 @@ for i in range (len(input_string)):
     else:
          output_string += input_string[i]
 #print output with decoration
+print("\033[1;36m" +"=" * 20)
+print( output_string)
+print("=" * 20)
 #program if you want to repeat it again
